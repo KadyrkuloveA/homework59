@@ -1,0 +1,16 @@
+.Jokes {
+    width: 49%;
+    margin: 30px;
+    border: 2px solid #282c34;
+    border-radius: 4px;
+    padding: 20px;
+}
+.newBtn {
+    border: 2px solid #282c34;
+    border-radius: 3px;
+    background: transparent;
+    font-family: Ubuntu;
+    font-size: 15px;
+    display: inline-block ;
+    padding: 8px 12px;
+}
